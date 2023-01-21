@@ -15,4 +15,4 @@ All about TCA and its use in SwiftUI + 5 Projects
 
 ![image](https://user-images.githubusercontent.com/63160825/213860349-9115bde2-6bc6-41c7-a78f-da2c61c115c9.png)
 
-![image](https://user-images.githubusercontent.com/63160825/213860348-2e0609b2-e40c-42c0-ad87-c302321f6127.png)
+![image](https://user-images.githubusercontent.com/63160825/213860416-bf90a4e6-28e8-4a22-8fff-97f222b1984e.png)
